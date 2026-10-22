@@ -1,0 +1,23 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px 100px;
+}
+
+div {
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+button {
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.green  { background-color: green; }
+.orange { background-color: orange; }
+.purple { background-color: purple; }

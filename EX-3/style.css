@@ -1,0 +1,20 @@
+/* TODO */
+body {
+  margin: 40px;
+  font-family: sans-serif;
+}
+.btn {
+  background: #33326c;
+  border: 8px solid #fffafd;
+  border-radius: 50px;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 24px 70px;
+  cursor: pointer;
+}
+.btn:hover {
+  background: #5768ad;
+  border-color: #37356e;
+}
